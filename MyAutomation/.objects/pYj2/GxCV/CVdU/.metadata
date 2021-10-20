@@ -1,0 +1,12 @@
+﻿{
+  "Id": "CVdUCdTPdUyz6JcVmIDSog",
+  "Reference": "Dnwe7lKIO0iSHsNgpInxPA/CVdUCdTPdUyz6JcVmIDSog",
+  "ParentRef": "Dnwe7lKIO0iSHsNgpInxPA/GxCVPmyqYESaO1mvAkivxw",
+  "Name": "Slack | Outlook Calendar Bot | Product",
+  "Type": "Screen",
+  "Created": "2021-10-15T09:38:10.4933206Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-10-15T09:38:10.4933206Z"
+}

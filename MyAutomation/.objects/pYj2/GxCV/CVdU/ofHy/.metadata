@@ -1,0 +1,13 @@
+﻿{
+  "Id": "ofHyzmnif02P-U4COdHD3w",
+  "Reference": "Dnwe7lKIO0iSHsNgpInxPA/ofHyzmnif02P-U4COdHD3w",
+  "ParentRef": "Dnwe7lKIO0iSHsNgpInxPA/CVdUCdTPdUyz6JcVmIDSog",
+  "Name": "grouping",
+  "Type": "Element",
+  "TaxonomyType": "None",
+  "Created": "2021-10-15T09:38:10.7273117Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-10-15T09:38:10.7273117Z"
+}

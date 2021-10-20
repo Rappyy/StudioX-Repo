@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetApp Area="0, 0, 0, 0" ContentHash="EnBwEKHU2US-5WORCmf7Fg" FilePath="C:\Users\Andrei Dinu\AppData\Local\slack\app-4.20.0\slack.exe" Selector="&lt;wnd app='slack.exe' cls='Chrome_WidgetWin_1' title='Slack | Outlook Calendar Bot | Product' /&gt;" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="IconBase64" xmlns="">01NYtR2HW702SRFDVpl8jJg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="bb38d856468e568826079254c058e59c.png" xmlns="">06Y_rNjaEGkmd9DwgU_ABQw</imageRef>
+</TargetApp>

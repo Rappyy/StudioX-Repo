@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="AXdQghbPm0GUMRCVfgAKwA" DesignTimeRectangle="1092, 5, 28, 28" FriendlyName="'grouping'" FullSelectorArgument="&lt;ctrl name='Slack | Outlook Calendar Bot | Product' role='document' /&gt;&lt;ctrl name='Customize and control Slack Slack | Outlook Calendar Bot | Produ*' role='grouping' /&gt;&lt;ctrl name='History and search' role='grouping' /&gt;&lt;ctrl name='User menu: Andrei Liviu Dinu' role='menu button' /&gt;&lt;ctrl role='grouping' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Slack | Outlook Calendar Bot | Product' role='document' /&gt;&lt;ctrl name='Customize and control Slack Slack | Outlook Calendar Bot | Produ*' role='grouping' /&gt;&lt;ctrl name='History and search' role='grouping' /&gt;&lt;ctrl name='User menu: Andrei Liviu Dinu' role='menu button' /&gt;&lt;ctrl role='grouping' automationid='' /&gt;" Guid="48b3cf64-c9e6-4243-9a87-c5ad45aa4779" ScopeSelectorArgument="&lt;wnd app='slack.exe' cls='Chrome_WidgetWin_1' title='Slack | Outlook Calendar Bot | Product' /&gt;" SearchSteps="Selector, FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="1136, 0, 46, 38" ElementType="Button" FriendlyName="'push button Minimize'" FullSelectorArgument="&lt;ctrl name='Slack | Outlook Calendar Bot | Product' role='document' /&gt;&lt;ctrl name='Customize and control Slack Slack | Outlook Calendar Bot | Produ*' role='grouping' /&gt;&lt;ctrl name='Minimize' role='push button' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Slack | Outlook Calendar Bot | Product' role='document' /&gt;&lt;ctrl name='Customize and control Slack Slack | Outlook Calendar Bot | Produ*' role='grouping' /&gt;&lt;ctrl name='Minimize' role='push button' automationid='' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1CPdaRl6HW0-KwPEmE0VvPQ</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0PVfPOAsEGUCls53-o3c8Sg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="202af08b9b2bbd4b978b8e817cce4016.png" xmlns="">0UL7YY8f9xUGDbHomd0EkeA</imageRef>
+</TargetAnchorable>
